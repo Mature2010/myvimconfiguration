@@ -1,0 +1,2 @@
+# myvimconfiguration
+personnal .vimrc configuration
